@@ -4,4 +4,4 @@
 <a href="https://github.com/mcyangtuo/mcyangtuo.github.io">代码库</a><br>
 <a href="https://mcyangtuo.github.io/klpbbs签名档.html">klpbbs签名档</a><br>
 <br>
-<a href="https://mcyangtuo.github.io/wp.html">https://mcyangtuo.github.io/wp.html（你问干啥的？这反正是给我自己用的）</a>
+<a href="https://mcyangtuo.github.io/wp.html">https://mcyangtuo.github.io/wp.html</a>（你问干啥的？这反正是给我自己用的）
