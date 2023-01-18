@@ -89,3 +89,9 @@ ul{
 .url{
     color: rgb(151, 151, 240);
 }
+.background{
+    background: url(background.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
