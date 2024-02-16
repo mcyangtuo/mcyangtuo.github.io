@@ -1,4 +1,6 @@
 # mcyangtuo.github.io
+BGM自动播放
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=3&id=2538061545&auto=1&height=66"></iframe><br>
 个人摆烂的网站<br>
 唯一用途就是挂个html文件<br>
 html无聊随便搞的，轻喷……<br>
