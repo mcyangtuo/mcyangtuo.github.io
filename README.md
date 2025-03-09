@@ -15,3 +15,12 @@
 我会尽力进行交流，就是比较慢 ｜ I will try my best to communicate, but it's slow.<br>
 <a href="mailto:mcyangtuo20@outlook.com">mcyangtuo20@outlook.com</a><br>
 QQ:2074200836 ｜ 如果可以？请尽量使用简体中文？ ｜ If it is possible? Please use Simplified Chinese as much as possible?
+
+<hr>
+
+*2025/03/09 15:33:26 @chaches-cat(不想吃老鼠的猫) 提交更改*:
+
+添加文件style.css
+
+重写index.html，原文件已作为index.html.bak存档
+

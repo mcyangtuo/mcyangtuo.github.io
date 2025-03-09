@@ -1,0 +1,67 @@
+body{
+	background-size:100%;
+	background-repeat:no-repeat;
+	background-color: 	#F8F8FF;
+	background-image:url("image/background.png");
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	word-wrap: break-word;
+}
+h4{
+	text-indent: 0.5%;
+}
+.title{
+	font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	color: 	#1C1C1C;
+}
+.mainbox{
+	margin: auto;
+	display: -webkit-flex;
+	align-items: center;
+	background-color: rgba(248,248,255,0.5);
+	-webkit-flex-direction:column;
+}		
+.box{
+	margin:auto;
+	margin: 5px;
+	display: -webkit-flex;
+	display: -flex;
+	-webkit-flex-direction:column;
+	width: 90%;
+	background-color: rgba(164,211,238,0.3);
+	border-radius: 10px;
+	box-shadow: 5px 5px rgba(1,1,1,0.1);
+}
+.subbox{
+	margin:auto;
+	display: -webkit-flex;
+	display: -flex;
+	-webkit-flex-direction:column;
+	width: 98%;
+}
+.player{
+	width: 25%;
+	height: 85px;
+	box-shadow: 3px 3px rgba(2,2,2,0.2);
+	background-image: linear-gradient(to bottom right, rgba(2,2,2,0.3), rgba(3,3,3,0.7));
+}
+a:link{
+	color: rgba(135,206,255,1);
+	text-decoration: none;
+	text-shadow: 3px 3px 3px rgba(1,1,1,0.3);
+}
+a:visited{
+	color:rgba(96,123,139,1);
+	text-decoration: none;
+	text-shadow: 5px 5px 5px rgba(2,2,2,0.7);
+}
+a:hover{
+	color:rgba(126,156,169,1);
+	text-decoration: none;
+	text-shadow: 5px 5px 5px rgba(3,3,3,0.5);
+}
+a:active{
+	color:rgba(101,128,144,1);
+	text-decoration: none;
+	text-shadow:7px 7px 7px rgba(3,3,3,0.7);
+}
+
