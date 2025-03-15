@@ -14,18 +14,6 @@
 
 *正在推送更改…完毕…*
 
-<hr>
-
-<h3>您好，欢迎来到此仓库</h3>
-
-此仓库Fork自<a href="https://github.com/mcyangtuo/mcyangtuo.github.io">mcyangtuo.github.io</a>
-
-正在由@不想吃老鼠的猫 (仓库websites_for-mcyangtuo的所有者)编辑
-
-以下内容来自原仓库的<a href="https://github.com/mcyangtuo/mcyangtuo.github.io/blob/main/README.md">README.md</a>
-
-<hr>
-
 只是个挂载摆烂个人网站的仓库<br>
 联系方式&Mail<br>
 正在完善ing…<br>
