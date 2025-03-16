@@ -90,7 +90,7 @@ ul{
     color: rgb(151, 151, 240);
 }
 .background{
-    background: url(https://mcyangtuo.github.io/server/background.png);
+    background: url("/image/PNG/background-for-server-index.png");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-attachment: fixed;
