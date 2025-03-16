@@ -7,14 +7,10 @@ body{
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 	word-wrap: break-word;
 }
-h4{
+h4{ 
 	text-indent: 0.5%;
 }
-.title{
-	font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
-	color: 	#1C1C1C;
-}
-.mainbox{
+.mainbox{ 
 	margin: auto;
 	display: flex;
 	display: -webkit-flex;
@@ -47,27 +43,24 @@ h4{
 .player{
 	width: 25%;
 	height: 85px;
-/*	box-shadow: 3px 3px rgba(2,2,2,0.15);*/
-/*	background-image: linear-gradient(to bottom right, rgba(2,2,2,0.15), rgba(5,5,5,0.15));*/
 }
 a:link{
-	color: rgba(135,206,255,1);
+	color: rgba(67,205,128,1);
 	text-decoration: none;
-/*	text-shadow: 3px 3px 3px rgba(1,1,1,0.3);*/
+	text-shadow: 1px 1px 3px rgba(1,1,1,0.3);
 }
 a:visited{
-	color:rgba(96,123,139,1);
+	color:rgba(102,139,139,1);
 	text-decoration: none;
-	text-shadow: 2px 2px 5px 5px rgba(2,2,2,0.7);
 }
 a:hover{
-/*	color:rgba(126,156,169,1);*/
+	color:rgba(84,255,159,1);
 	transition: 0.3s;
 	text-decoration: none;
 	text-shadow: 2px 2px 5px rgba(3,3,3,0.5);
 }
 a:active{
-	color:rgba(101,128,144,1);
+	color:rgba(105,139,155,1);
 	transition: 0.1s;
 	text-decoration: none;
 	text-shadow:5px 5px 7px rgba(3,3,3,0.75);
